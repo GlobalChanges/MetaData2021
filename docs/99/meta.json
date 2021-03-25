@@ -2,7 +2,7 @@
  "id": "99",
  "language": "de",
  "title": "Masdar - Die Öko-Stadt in der öko für ökonomisch steht",
- "abstract": "Masdar löst alle Probleme und zwar immer mit der richtigen Technologie. Aber ist das wirklich so einfach? Und was wird in Abu Dhabi eigentlich unter Nachhaltigkeit verstanden?",
+ "abstract": "Masdar löst alle Probleme und zwar immer mit der passenden Technologie. Aber ist das wirklich so einfach? Und was wird in Abu Dhabi eigentlich unter dem Begriff Nachhaltigkeit verstanden? Lesen sie selber, wie in der Wüste eine nachhaltige Utopie entstehen sollte und was bisher daraus geworden ist.",
  "year": 2021,
  "freidok": "",
  "orientation": "portrait",
@@ -14,8 +14,8 @@
      "firstname": "Jan",
      "name": "Hopfer",
      "email": "jan.hopfer@students.uni-freiburg.de",
-     "freidok": null,
-     "orcid": null
+     "freidok": "194140",
+     "orcid": "0000-0001-8234-5149"
    }
  ],
  "location": {
@@ -34,27 +34,39 @@
  "concept": "Politische Ökologie",
  "topic": "Urbanisierung",
  "subtopic": "Energie",
- "keywords": ["Masdar","eco-city","smart-city"], 
+ "keywords": ["Masdar","eco-city","smart-city","Öko"], 
  "sources": [
-   {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
+{
+      "type": "Webseite",
+      "authors": "Masdar Initiative",
+      "year": 2017,
+      "title": "About Masdar City ",
       "doi": "",
-      "url": "",
+      "url": "http://www.masdar.ae/en/masdar-city/detail/About-Masdar-City",
       "journal": "",
       "volume": null,
       "publisher": "",
       "pages": ""
    },
-   {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
+ {
+      "type": "Webseite",
+      "authors": "Masdar",
+      "year": 2021,
+      "title": "The City",
       "doi": "",
-      "url": "",
+      "url": "https://masdar.ae/en/masdar-city/the-city",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }, 
+{
+      "type": "pdf-Dokument",
+      "authors": "Masdar City",
+      "year": 2021,
+      "title": "Master Plan",
+      "doi": "",
+      "url": "https://masdar.ae/-/media/corporate/downloads/masdar-city/masterplan_21-12_english_v2.pdf",
       "journal": "",
       "volume": null,
       "publisher": "",

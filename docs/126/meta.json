@@ -15,7 +15,7 @@
      "name": "Haibel",
      "email": "tobias.haibel@outlook.com",
      "freidok":"",
-     "orcid": ""
+     "orcid": "0000-0002-3457-6150"
    }
  ],
  "location": {
@@ -38,7 +38,30 @@
  "keywords": ["Klimawandel","Alpen","Naturgefahren","Felsstürze","Hochvogel"], 
  "sources": [
    {
+      "type": "webpage",
+      "authors": "Kerckhoff J.",
+      "year": 2019,
+      "title": "Die Alpen in Bewegung.",
+      "doi": "",
+      "url": "https://www.planet-wissen.de/video-bergsturz--die-alpen-in-bewegung-100.html",
+      "journal": "",
+      "volume": null,
+      "publisher": "Planet Wissen",
+      "pages": ""
+   },
+   {
+      "type": "webpage",
+      "authors": "Sabine Lindlbauer",
+      "year": 2019,
+      "title": "Extreme - Das neue Normal? Klimawandel in Bayern.",
+      "doi": "",
+      "url": "https://www.br.de/mediathek/video/dokthema-27032019-extreme-das-neue-normal-klimawandel-in-bayern-av:5c640019a8579500181be45c",
+      "journal": "",
+      "volume": null,
+      "publisher": "Bayerischer Rundfunk",
+      "pages": ""
    }
+
  ]
 
 

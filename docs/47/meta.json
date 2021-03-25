@@ -2,7 +2,7 @@
  "id": "47",
  "language": "de",
  "title": "Wo Rosen sind, sind auch Dornen - Rosenanbau am Lake Naivasha in Kenia",
- "abstract": "In Kenia am Lake Naivasha befindet sich das größte Blumenanbaugebiet Afrikas und das wichtigste für Europa. Auf riesigen Blumenfarmen werden dort zwei Drittel aller verkauften Rosen in Deutschland produziert. Die Region um den Naivashasee bietet mehrere Standortvorteile, birgt allerdings auch einige Schattenseiten. Der Rosenanbau erfolgt unter enormem Wasserverbrauch – in einem Land mit Wasserknappheit. Durch die in den letzten Jahrzenten drastische Expansion der Blumenfarmen kam es zu einer massiven Verschmutzung des Naivashasees und zu Seespiegelschwankungen. Die dortige Zuwanderung und das prognostizierte starke Bevölkerungswachstum verschärft diese Problematik.",
+ "abstract": "Rosen – schön, edel und sehr beliebt. Die mit Abstand meistgekaufte Blume in Deutschland stammt vor allem aus Kenia. In Kenia am Lake Naivasha befindet sich das größte Blumenanbaugebiet Afrikas und das wichtigste für Europa. Auf riesigen Blumenfarmen werden dort zwei Drittel aller verkauften Rosen in Deutschland produziert. Indirekt leben über 1,2 Millionen Menschen in Kenia von der Blumenproduktion. Die Region um den Naivashasee bietet zwar mehrere Standortvorteile, birgt allerdings auch einige Schattenseiten. Der Rosenanbau erfolgt unter enormem Wasserverbrauch – in einem Land mit Wasserknappheit. Durch die in den letzten Jahrzenten drastische Expansion der Blumenfarmen kam es zu einer massiven Verschmutzung des Naivashasees und zu Seespiegelschwankungen. Die dortige Zuwanderung und das prognostizierte starke Bevölkerungswachstum verschärft diese Problematik.",
  "year": 2021,
  "freidok": null,
  "orientation": "portrait",
@@ -39,29 +39,40 @@
    {
       "type": "",
       "authors": "",
-      "year": 2021,
-      "title": "",
+      "year": 2010,
+      "title": "Ostafrikas gefährliche Blüten.",
       "doi": "",
-      "url": "",
+      "url": "https://www.faz.net/aktuell/wirtschaft/rosen-aus-kenia-ostafrikas-gefaehrliche-blueten-1939203.html",
       "journal": "",
       "volume": null,
-      "publisher": "",
+      "publisher": "FAZ",
       "pages": ""
    },
    {
       "type": "",
       "authors": "",
       "year": 2021,
-      "title": "",
+      "title": "Import frischer Rosen nach Deutschland in den Jahren 2007 bis 2020",
       "doi": "",
-      "url": "",
+      "url": "https://de.statista.com/statistik/daten/studie/77409/umfrage/import-von-frischen-rosen-nach-deutschland-seit-2001",
+      "journal": "",
+      "volume": null,
+      "publisher": "STATISTISCHES BUNDESAMT",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2016,
+      "title": "DIE ROSEN-STORY",
+      "doi": "",
+      "url": "http://WWW.YOUTUBE.COM/WATCH?V=NVNSPRT87HW&T=195",
       "journal": "",
       "volume": null,
       "publisher": "",
       "pages": ""
    }
  ]
-  
-
+ 
 
 }

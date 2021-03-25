@@ -38,27 +38,39 @@
  "keywords": ["Klimawandel","Felsstürze","Alpen"], 
  "sources": [
    {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
+      "type": "Book",
+      "authors": "Dikau, R., Stötter,J., Wellmer, F.-W., & Dehn, M.",
+      "year": 2001,
+      "title": "Massenbewegungen",
       "doi": "",
       "url": "",
-      "journal": "",
+      "journal": "Naturkatastrophen - Ursachen, Auswirkungen, Vorsorge",
+      "volume": null,
+      "publisher": "Plate, E., & Merz, B.",
+      "pages": "114-138"
+   },
+   {
+      "type": "Online Journal",
+      "authors": "ETH ZÜRICH (INSTITUT FÜR TECHNISCHE INFORMATIK, ETH ZÜRICH)",
+      "year": 2013,
+      "title": "PermaSense – Naturgefahren im Gebirge",
+      "doi": "",
+      "url": "https://www.scientifica.ch/archiv/was-wir-wann-wagen/natur-und-umwelt/permasense-naturgefahren-im-gebirge-2/ ",
+      "journal": "Scientifica 2013 – Züricher Wissenschaftstage",
       "volume": null,
       "publisher": "",
       "pages": ""
    },
    {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
+      "type": "Journal Article",
+      "authors": "Phillips, M. ",
+      "year": 2021,
+      "title": "Felsstürze im Permafrost",
       "doi": "",
-      "url": "",
+      "url": "https://www.slf.ch/de/permafrost/permafrost-und-naturgefahren/felsstuerze-im-permafrost.html",
       "journal": "",
       "volume": null,
-      "publisher": "",
+      "publisher": "WSL-Institut für Schnee- und Lawinenforschung SLF",
       "pages": ""
    }
  ]

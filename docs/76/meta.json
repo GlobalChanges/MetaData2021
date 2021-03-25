@@ -1,0 +1,116 @@
+{
+ "id": "76",
+ "language": "de",
+ "title": "Dead Zone Ostsee. Der Kampf um den Sauerstoff?",
+ "abstract": "Die Ostsee wird von vielerlei Faktoren beeinflusst, was wiederum Folgen auf die Biodiversität nimmt. Da die Ostsee Einflussgebiet verschiedener Länder ist, ist hier die gemeinsame Erarbeitung eines Plans notwendig, um das erforderliche Management zu organisieren und so zur Minimierung der Eutrophierung und ihrer Effekte zu sorgen.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/76/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/76/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/76/icon.png",
+ "authors": [
+   { 
+     "firstname": "Hannah",
+     "name": "Braun",
+     "email": "hannah.braun-1@stud.ph-freiburg.de",
+     "freidok": "",
+     "orcid": "0000-0002-2536-7250"
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Deutschland",
+   "region": "Ostsee",
+   "city": "",
+   "landscape": "Meer",
+   "latitude": 58.487952,
+   "longitude": 19.863281
+ },
+ "period": {
+    "begin": 1950,
+    "end": 2020
+ },
+ "concept": "Critical Zones",
+ "topic": "Wasser",
+ "subtopic": "Biodiversität",
+ "keywords": ["Eutrophierung","Antrainerstaaten","Antrophoge Einflüsse", "Biodiversität"], 
+ "sources": [
+   {
+      "type": "Artikel",
+      "authors": "Haneklaus, S. / Schick, J. / Schnug, E.",
+      "year": 2005,
+      "title": "Eutrophierung",
+      "doi": "",
+      "url": "https://www.ikzm-d.de/main.php?page=5,1646",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "Artikel",
+      "authors": "National Oceanic and Atmospheric Administration",
+      "year": 2021,
+      "title": "What is a dead zone?",
+      "doi": "",
+      "url": "https://oceanservice.noaa.gov/facts/deadzone.html",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+  {
+      "type": "Artikel",
+      "authors": "HELCOM",
+      "year": ,
+      "title": "Baltic SeaAction Plan.Reaching Good Environmental Status for the Baltic Sea",
+      "doi": "",
+      "url": "https://helcom.fi/baltic-sea-action-plan/",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+
+  },
+  {
+      "type": "Artikel",
+      "authors": "HELCOM",
+      "year": 2017-2018,
+      "title": "Eutrophication",
+      "doi": "",
+      "url": "http://stateofthebalticsea.helcom.fi/pressures-and-their-status/eutrophication",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+},
+  {
+      "type": "Report",
+      "authors": "HELCOM",
+      "year": 2018,
+      "title": "Sources and pathways of nutrients to the Baltic Sea. Baltic Sea Environment Proceedings No. 153",
+      "doi": "",
+      "url": "https://helcom.fi/media/publications/BSEP153.pdf",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+},
+  {
+      "type": "Artikel",
+      "authors": "Umweltbundestamt",
+      "year": 2021,
+      "title": "",
+      "doi": "",
+      "url": "https://www.umweltbundesamt.de/themen/wasser/gewaesser/meere/nutzung-belastung/eutropierung#eutrophierung-was-bedeutet-das",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+ 
+
+
+}
