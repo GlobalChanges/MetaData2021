@@ -63,7 +63,7 @@
   {
       "type": "Artikel",
       "authors": "HELCOM",
-      "year": ,
+      "year": null,
       "title": "Baltic SeaAction Plan.Reaching Good Environmental Status for the Baltic Sea",
       "doi": "",
       "url": "https://helcom.fi/baltic-sea-action-plan/",
@@ -76,7 +76,7 @@
   {
       "type": "Artikel",
       "authors": "HELCOM",
-      "year": 2017-2018,
+      "year": 2018,
       "title": "Eutrophication",
       "doi": "",
       "url": "http://stateofthebalticsea.helcom.fi/pressures-and-their-status/eutrophication",
