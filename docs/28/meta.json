@@ -1,0 +1,70 @@
+{
+ "id": "28",
+ "language": "de",
+ "title": "Gesellschaftlicher Umgang mit Klimaextremen: gestern - heute - morgen?",
+ "abstract": "Klimakatastrophen, Wetterextreme, klimatische Veränderungen – der Klimawandel ruft seit jeher verschiedene Deutungsmuster und Reaktionen hervor. Die gesellschaftlichen Reaktionen und Anpassungsmaßnahmen stehen dabei im direkten Zusammenhang mit den jeweiligen Erklärungsansätzen von Klimaphänomenen.",
+ "year": 2021,
+ "freidok": "",
+ "doi": "",
+ "pdf2": "",
+ "image": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/28/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/28/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/28/icon.png",
+ "authors": [
+   { 
+     "firstname": "Fransiska",
+     "name": "Fedder",
+     "email": "FranziskaFedder@gmx.de",
+     "freidok": "",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "countries": ["Deutschland"],
+   "region": null,
+   "city": null,
+   "landscape": null,
+   "latitude": -47.0,
+   "longitude": -123.0
+ },
+ "period": {
+    "begin": 1500,
+    "end": 2021
+ },
+ "concept": "Diskursanalyse",
+ "topic": "Bildung",
+ "subtopic": "Klimaextreme",
+ "keywords": [], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "Brönnimann, Stefan und Daniel Krämer",
+      "year": 2016,
+      "title": "Tambora und das «Jahr ohne Sommer» 1816 Klima, Mensch und Gesellschaft",
+      "doi": "",
+      "url": "https://boris.unibe.ch/83607/2/tambora_d_webA4.pdf",
+      "journal": "",
+      "volume": null,
+      "publisher": "Gerlafingen: Publikation Digital AG",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
