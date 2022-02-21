@@ -5,9 +5,9 @@
  "abstract": "Der Globale Wasserverbrauch steigt seit Jahren stetig an. Eine große Rolle spielt dabei die Bewässerung landwirtschaftlicher Flächen. Zur Messung des Wasserverbrauchs wird das Konzept des Wasserfußabdrucks verwendet. Dieser dient der Feststellung, ob der Wasserressourcenverbrauch eines Landes nachhaltig ist. Bei dieser Berechnung fließt das Konzept des virtuellen Wassers mit ein. Für einen detaillierten Aufschluss des Wasserfußabdrucks ist eine differenzierte Betrachtung auf nationaler oder regionaler Ebene erforderlich. Als Industrienation liegt Deutschland im Vergleich zu Ländern des Globalen Südens über dem mittleren globalen Wasserverbrauch von 3.800 Litern pro Kopf/Tag.",
  "year": 2021,
  "orientation": "landscape",
- "pdf": "https://globalchanges.github.io/MetaData2021b/59/poster.pdf",
- "thumbnail": "https://globalchanges.github.io/MetaData2021b/59/thumbnail.png",
- "icon": "https://globalchanges.github.io/MetaData2021b/59/icon.png",
+ "pdf": "https://globalchanges.github.io/MetaData2021/59/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021/59/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021/59/icon.png",
  "authors": [
    { 
      "firstname": "Johanna",
