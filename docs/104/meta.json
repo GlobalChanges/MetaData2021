@@ -8,6 +8,7 @@
  "pdf": "https://globalchanges.github.io/MetaData2021/104/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2021/104/thumbnail.png",
  "icon": "https://globalchanges.github.io/MetaData2021/104/icon.png",
+ "tiles": "https://globalchanges.github.io/MetaData2021/104/tiles.dzi",
  "authors": [
    { 
      "firstname": "Elias",
